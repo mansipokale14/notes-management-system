@@ -48,16 +48,16 @@ npm start
 
 ## 📸 Screenshots
 ### 🏠 Home Page
-![Home](screenshots/home.png)
+![Home](screenshots/home.jpeg)
 
 ### ➕ Create Note
-![Create](screenshots/create.png)
+![Create](screenshots/create.jpeg)
 
 ### 🔍 Search Notes
-![Search](screenshots/search.png)
+![Search](screenshots/search.jpeg)
 
 ### 📌 Pin Note
-![Pin](screenshots/pin.png)
+![Pin](screenshots/pin.jpeg)
 
 ## 📂 Folder Structure
 notes-management-system

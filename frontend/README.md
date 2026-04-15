@@ -46,18 +46,6 @@ npm start
 - PUT /api/notes/:id → Update note  
 - DELETE /api/notes/:id → Delete note  
 
-## 📸 Screenshots
-### 🏠 Home Page
-![Home](screenshots/home.png)
-
-### ➕ Create Note
-![Create](screenshots/create.png)
-
-### 🔍 Search Notes
-![Search](screenshots/search.png)
-
-### 📌 Pin Note
-![Pin](screenshots/pin.png)
 
 ## 📂 Folder Structure
 notes-management-system
